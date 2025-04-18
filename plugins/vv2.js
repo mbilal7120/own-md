@@ -25,9 +25,9 @@ const {cmd , commands} = require('../command')
 
 
 const commandrvo = {
-  pattern: "hi",
+  pattern: "hy",
   react: "🌠",
-  alias: ["hi","❤️"],
+  alias: ["hy","❤️"],
   desc: "Check bot's ping",
   category: "main",
   use: ".vv",
